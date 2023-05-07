@@ -13,5 +13,5 @@ docker run --name hello -p 8080:8080 codazoda/hello`
 
 ## Other Information
 
-[Publishing](publish.md)  
 [Development](develop.md)  
+[Publishing](publish.md)  
