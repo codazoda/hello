@@ -8,7 +8,7 @@ I've pushed this code to dockerhub so you can simply pull the image and run it.
 
 ```
 docker pull codazoda/hello:latest
-docker run --name hello -p 8080:8080 codazoda/hello`
+docker run --name hello -p 8080:8080 codazoda/hello
 ```
 
 ## Other Information
